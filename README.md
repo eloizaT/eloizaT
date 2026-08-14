@@ -25,24 +25,13 @@ A Python-based ECU simulation environment for developing and testing automotive 
 
 **Technologies:** `Python` `PyQt` `CAN` `OBD-II`
 
-> The larger goal is to build a flexible engineering tool for simulation, diagnostics, automated testing, and experimentation with automotive communication systems.
-
 ---
 
 ### Automotive CI/CD
 
-An exploration of automation and CI/CD practices for automotive software development.
+A system architecture and engineering study exploring how CI/CD concepts can be applied to automotive software development.
 
-The project investigates how modern software automation can support engineering workflows involving:
-
-* Automated builds
-* Static analysis
-* Automated testing
-* Quality gates
-* Requirements and test traceability
-* Release artifacts
-* Engineering evidence
-* Functional-safety-aware development processes
+This is not a software project or CI/CD framework implementation. The repository focuses on architecture, design decisions, engineering workflows, and documentation
 
 **Focus:** `Automation` `CI/CD` `Testing` `Software Quality` `ISO 26262`
 
