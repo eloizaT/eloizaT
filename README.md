@@ -23,16 +23,6 @@ I particularly enjoy problems where software can turn a complicated or manual en
 
 A Python-based ECU simulation environment for developing and testing automotive software without requiring physical ECU hardware.
 
-The project explores:
-
-* Virtual CAN communication
-* ECU behavior simulation
-* OBD-II diagnostics
-* CAN traffic monitoring
-* Configurable simulated ECUs
-* GUI-based interaction
-* Automotive software testing
-
 **Technologies:** `Python` `PyQt` `CAN` `OBD-II`
 
 > The larger goal is to build a flexible engineering tool for simulation, diagnostics, automated testing, and experimentation with automotive communication systems.
