@@ -6,7 +6,7 @@ I enjoy building software that helps engineers **automate workflows, test system
 
 My interests sit at the intersection of software development, automation, testing, simulation, and systems engineering.
 
-## 🔧 What I Build
+## What I Build
 
 * **Automation tools** that reduce repetitive engineering work
 * **Testing & simulation tools** for development without physical environments
@@ -17,9 +17,9 @@ My interests sit at the intersection of software development, automation, testin
 
 I particularly enjoy problems where software can turn a complicated or manual engineering process into something **repeatable, testable, and automated**.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚗 ECU Simulator
+### ECU Simulator
 
 A Python-based ECU simulation environment for developing and testing automotive software without requiring physical ECU hardware.
 
@@ -29,7 +29,7 @@ A Python-based ECU simulation environment for developing and testing automotive 
 
 ---
 
-### ⚙️ Automotive CI/CD
+### Automotive CI/CD
 
 An exploration of automation and CI/CD practices for automotive software development.
 
@@ -48,7 +48,7 @@ The project investigates how modern software automation can support engineering 
 
 ---
 
-### 🧪 CI/CD Lab
+### CI/CD Lab
 
 A development environment for experimenting with CI/CD automation and engineering workflows.
 
@@ -58,7 +58,7 @@ The lab provides an environment for exploring integrations between tools such as
 
 Rather than infrastructure being the end goal, I use environments like this to explore how **developer workflows can be standardized and automated through software and tooling**.
 
-## 🛠️ Technical Interests
+## Technical Interests
 
 ### Automation
 
@@ -80,7 +80,7 @@ Using logs, telemetry, protocols, and system data to understand how software beh
 
 Automating build, test, analysis, validation, and release workflows while keeping the focus on **tooling and software development rather than infrastructure administration**.
 
-## 💻 Technologies
+## Technologies
 
 **Programming & Scripting**
 
@@ -98,7 +98,7 @@ Automating build, test, analysis, validation, and release workflows while keepin
 
 `Linux` `Docker` `Kubernetes` `Gitea` `Nexus` `SonarQube`
 
-## 🧭 What I'm Exploring
+## What I'm Exploring
 
 I'm currently interested in taking engineering automation beyond individual scripts and building **structured, reusable software tools**.
 
@@ -135,7 +135,7 @@ Some areas I'm particularly interested in exploring further:
 * Packaging and distribution
 * Reliable automation at scale
 
-## 🎯 My Engineering Philosophy
+## My Engineering Philosophy
 
 Good automation isn't just a script that saves a few commands.
 
@@ -148,13 +148,13 @@ I aim to build tools that are:
 **Documented** — another engineer can understand and use it
 **Practical** — solves a real engineering problem
 
-## 📚 Always Learning
+## Always Learning
 
 I use GitHub as a place to build, experiment, document what I learn, and gradually turn ideas into useful engineering tools.
 
 My current focus is strengthening my software engineering skills around **Python, automation, testing, simulation, APIs, and developer tooling**.
 
-## 📫 Connect
+## Connect
 
 I'm interested in projects and conversations around:
 
