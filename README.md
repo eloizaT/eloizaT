@@ -7,7 +7,6 @@ I enjoy building software that helps engineers **automate workflows, test system
 My interests sit at the intersection of software development, automation, testing, simulation, and systems engineering:
 
 * **Automation tools** that reduce repetitive engineering work
-* **Testing & simulation tools** for development without physical environments
 * **Developer tools** that improve engineering workflows
 * **CI/CD automation** for building, testing, and validating software
 * **Diagnostic & analysis tools** for understanding system behavior
@@ -16,14 +15,6 @@ My interests sit at the intersection of software development, automation, testin
 I particularly enjoy problems where software can turn a complicated or manual engineering process into something **repeatable, testable, and automated**.
 
 ## Featured Projects
-
-### ECU Simulator
-
-A Python-based ECU simulation environment for developing and testing automotive software without requiring physical ECU hardware.
-
-**Technologies:** `Python` `PyQt` `CAN` `OBD-II`
-
----
 
 ### Automotive CI/CD
 
@@ -45,6 +36,13 @@ The lab provides an environment for exploring integrations between tools such as
 
 Rather than infrastructure being the end goal, I use environments like this to explore how **developer workflows can be standardized and automated through software and tooling**.
 
+---
+
+### ECU Simulator
+
+A Python-based ECU simulation environment for developing and testing automotive software without requiring physical ECU hardware.
+
+**Technologies:** `Python` `PyQt` `CAN` `OBD-II`
 
 ## Technologies
 
@@ -55,10 +53,6 @@ Rather than infrastructure being the end goal, I use environments like this to e
 **Software & Automation**
 
 `Git` `GitHub Actions` `Jenkins` `REST APIs` `CLI Development`
-
-**Testing & Engineering**
-
-`pytest` `CAN` `OBD-II` `Software Testing` `Simulation`
 
 **Systems & Tooling**
 
@@ -78,8 +72,6 @@ Some areas I'm interested in exploring further:
 * Tool integrations
 * Packaging and distribution
 * Reliable automation at scale
-
-
 
 ## Connect
 
