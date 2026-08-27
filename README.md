@@ -14,65 +14,6 @@ My interests sit at the intersection of software development, automation, testin
 
 I particularly enjoy problems where software can turn a complicated or manual engineering process into something **repeatable, testable, and automated**.
 
-## Featured Projects
-
-### Automotive CI/CD
-
-A system architecture and engineering study exploring how CI/CD concepts can be applied to automotive software development.
-
-This is not a software project or CI/CD framework implementation. The repository focuses on architecture, design decisions, engineering workflows, and documentation
-
-**Focus:** `Automation` `CI/CD` `Testing` `Software Quality` `ISO 26262`
-
----
-
-### CI/CD Lab
-
-A development environment for experimenting with CI/CD automation and engineering workflows.
-
-The lab provides an environment for exploring integrations between tools such as:
-
-`Jenkins` · `Gitea` · `Nexus` · `SonarQube` · `Docker` · `Kubernetes`
-
-Rather than infrastructure being the end goal, I use environments like this to explore how **developer workflows can be standardized and automated through software and tooling**.
-
----
-
-### ECU Simulator
-
-A Python-based ECU simulation environment for developing and testing automotive software without requiring physical ECU hardware.
-
-**Technologies:** `Python` `PyQt` `CAN` `OBD-II`
-
-## Technologies
-
-**Programming & Scripting**
-
-`Python` `Bash` `Shell` `Groovy`
-
-**Software & Automation**
-
-`Git` `GitHub Actions` `Jenkins` `REST APIs` `CLI Development`
-
-**Systems & Tooling**
-
-`Linux` `Docker` `Kubernetes` `Gitea` `Nexus` `SonarQube`
-
-## What I'm Exploring
-
-Some areas I'm interested in exploring further:
-
-* Python and Go application architecture
-* CLI and developer tool design
-* API-driven automation
-* Automated testing frameworks
-* Hardware and system simulation
-* Event-driven workflows
-* Log and diagnostic analysis
-* Tool integrations
-* Packaging and distribution
-* Reliable automation at scale
-
 ## Connect
 
 I'm interested in projects and conversations around:
