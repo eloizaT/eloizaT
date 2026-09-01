@@ -12,12 +12,12 @@ My interests sit at the intersection of software development, automation, testin
 * **Diagnostic & analysis tools** for understanding system behavior
 * **CLI tools & utilities** for technical workflows
 
-I particularly enjoy problems where software can turn a complicated or manual engineering process into something **repeatable, testable, and automated**.
+I'm also currently expanding my skills toward Data Engineering, with a particular interest in applying my experience in Python, SQL, data modelling, automation, and reliable engineering workflows to data pipelines and data platforms.
 
 ## Connect
 
 I'm interested in projects and conversations around:
 
-**Automation · Engineering Tools · Developer Tools · Testing · Simulation · Python**
+**Automation · Engineering Tools · Developer Tools · Testing · Simulation · Python · Data Engineering**
 
 Feel free to explore my repositories and follow along as the projects evolve.
