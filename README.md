@@ -1,23 +1,22 @@
 # Hi, 👋
 
-I'm a **Software Engineer focused on Automation, Engineering Tools, and Developer Tooling**.
+Welcome to my GitHub!
 
-I enjoy building software that helps engineers **automate workflows, test systems, analyze behavior, and solve repetitive technical problems**.
+This space is dedicated to building **tools that support DevOps and software development workflows in the Automotive Industry**.
 
-My interests sit at the intersection of software development, automation, testing, simulation, and systems engineering:
+The projects here explore practical solutions for improving the development, integration, testing, and delivery of automotive software.
 
-* **Automation tools** that reduce repetitive engineering work
-* **Developer tools** that improve engineering workflows
-* **CI/CD automation** for building, testing, and validating software
-* **Diagnostic & analysis tools** for understanding system behavior
-* **CLI tools & utilities** for technical workflows
+## 🚘 Automotive DevOps & Developer Tools
 
-I'm also currently expanding my skills toward Data Engineering, with a particular interest in applying my experience in Python, SQL, data modelling, automation, and reliable engineering workflows to data pipelines and data platforms.
+Here you'll find tools and experiments focused on areas such as:
 
-## Connect
+* **Developer Tooling** — utilities that simplify and improve automotive software development workflows
+* **CI/CD & Automation** — tools for automating builds, testing, integration, and deployment
+* **Testing & Validation** — solutions that support automated testing and software quality
+* **Build & Release Engineering** — tooling for reproducible builds, packaging, and release processes
+* **Diagnostics & Observability** — tools that improve visibility into development and CI environments
+* **Integration Workflows** — solutions for managing complex software components, dependencies, and development environments
 
-I'm interested in projects and conversations around:
+The goal is to create practical, reusable tooling that helps make **automotive software development faster, more reliable, and easier to maintain**.
 
-**Automation · Engineering Tools · Developer Tools · Testing · Simulation · Python · Data Engineering**
-
-Feel free to explore my repositories and follow along as the projects evolve.
+More projects coming soon. 
