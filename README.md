@@ -6,7 +6,7 @@ This space is dedicated to building **tools that support DevOps and software dev
 
 The projects here explore practical solutions for improving the development, integration, testing, and delivery of automotive software.
 
-## 🚘 Automotive DevOps & Developer Tools
+## Projects on DevOps & Developer Tools
 
 Here you'll find tools and experiments focused on areas such as:
 
